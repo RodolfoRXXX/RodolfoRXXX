@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Laravel y Angular**
 
-- 📫 Cómo contactarme? **rodolfo.singular@gmail.com**
+- 📫 Cómo contactarme? **rodolforomero.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

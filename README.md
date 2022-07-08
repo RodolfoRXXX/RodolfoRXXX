@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy Rodolfo Romero</h1>
-<h3 align="center">Soy un desarrollador full stack developer, ansioso de resolver problemas y crear aplicaciones fantásticas!</h3>
+<h1 align="center">Hola 👋, soy Rodolfo</h1>
+<h3 align="center">Soy un desarrollador full stack php, ansioso de resolver problemas y simplificar lo inentendible.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodolforxxx&label=Profile%20views&color=0e75b6&style=flat" alt="rodolforxxx" /> </p>
 

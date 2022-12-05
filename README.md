@@ -1,15 +1,15 @@
 <h1 align="center">Hola 👋, soy Rodolfo</h1>
-<h3 align="center">Soy un desarrollador full stack php, ansioso de resolver problemas y simplificar lo inentendible.</h3>
+<h3 align="center">Soy un desarrollador full stack, ansioso de resolver problemas y simplificar lo inentendible.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodolforxxx&label=Profile%20views&color=0e75b6&style=flat" alt="rodolforxxx" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo **Laravel y Angular**
+- 🌱 Actualmente estoy aprendiendo **MongoDB y React**
 
 - 📫 Cómo contactarme? **rodolforomero.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/rodoromeroxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodoromeroxx" height="30" width="40" /></a>
+<a href="https://instagram.com/rodoromerodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodoromerodev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

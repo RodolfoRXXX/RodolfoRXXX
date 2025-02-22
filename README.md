@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodolforxxx&label=Profile%20views&color=0e75b6&style=flat" alt="rodolforxxx" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo **MongoDB y React**
+- 🌱 Actualmente estoy aprendiendo **C y C++**
 
 - 📫 Cómo contactarme? **rodolforomero.dev@gmail.com**
 
